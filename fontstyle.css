@@ -1,0 +1,21 @@
+h1 {
+    font-size:60px;
+    text-align: center;	
+    border-bottom:1px solid gray;
+    margin:0;
+    padding:20px; 
+}
+a {
+    color:navy;
+    text-decoration: none;
+}
+#midtitle {
+    font-size:35px;
+}
+#text {
+    color:rgb(78, 82, 85);
+    font-size:25px;
+}
+#active {
+    color:red
+}
